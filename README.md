@@ -1,4 +1,4 @@
-![2021-08-08 (6)](https://user-images.githubusercontent.com/83742550/128620800-9bf46a3d-50d1-4086-b2bb-018786fa05fc.png)
+
 # ReadMe-Generator
 
 
