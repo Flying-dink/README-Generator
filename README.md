@@ -1,3 +1,4 @@
+![2021-08-08 (6)](https://user-images.githubusercontent.com/83742550/128620800-9bf46a3d-50d1-4086-b2bb-018786fa05fc.png)
 # ReadMe-Generator
 
 
@@ -23,7 +24,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage 
 npm run start
 
-Provide instructions and examples for use. Include screenshots as needed.
+![2021-08-08 (6)](https://user-images.githubusercontent.com/83742550/128620805-8a1a54e7-7100-4022-9ab6-87df561eae8a.png)
+
 
 To add a screenshot, create an  folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
